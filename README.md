@@ -1,2 +1,2 @@
 ### Southern Water Corp Case Study
-#### Back-up copy of Jupyter Notebook project file.
+#### Back-up copies of a Jupyter Notebook project file using Python to conduct Inferential and Descriptive Statistics.
